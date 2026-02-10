@@ -209,6 +209,12 @@ for i in range(1, 11):
     print(f"{i} -> {i*i}")
 
 # Q15: Pattern 1 1 2 2 ...
+
+print("\nPattern 1 1 2 2 ... 10 10:")
+for i in range(1, 11):
+    print(i, i, end=" ")
+print()
+
 print("\nPattern 1 1 2 2 ... 10 10:")
 for i in range(1, 11):
     print(f"{i} {i}", end=" ")
