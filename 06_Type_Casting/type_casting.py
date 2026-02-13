@@ -2,6 +2,7 @@
 # Topic: Type Casting (Implicit and Explicit)
 # File: type_casting.py
 # ---------------------------------------------------------
+##
 
 # --- 1. Implicit Casting ---
 x = 10      # int
